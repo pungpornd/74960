@@ -1,0 +1,22 @@
+1. check .net framwork ver.
+2. VS studio veer.
+3. % complete ของแต่ละ task ที่คนเก่าแจ้งมาว่าทำเสร็จไป
+
+GN0AUPFM
+GN0AUP
+GNRCAUPD
+GNC087CL
+RLC087CL
+ILC087CL
+
+upload file to as400      
+1.GN0AUPFM (หน้าจอ upload)   
+2.GN0AUP (program upload)   ทั้ง2 ไม่แก้ไข ใช้เทส upload
+
+confirm receive screen 
+1. GNRCAUPD (*แก้ไขให้userสามารถ input วันที่ได้ ปัจจุบันแก้ไขวันที่ไม่ได้)
+
+process update transaction receive date 
+1. GNC087CL  
+2. RLC087CL  
+3. ILC087CL (ไม่แก้ไข เพื่อเช็คดู process ต่อไป
